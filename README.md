@@ -1,2 +1,40 @@
-# Bank-System
-Banking System Project built with C# and based on Object-Oriented Programming (OOP) concepts, especially Encapsulation and Abstraction, along with several other techniques such as LINQ, Entity Framework Core (EF Core), SQL Server, and proper Database Design.
+# Banking System Project 🏦
+
+A **Banking System** built with **C#** using **Object-Oriented Programming (OOP)** principles such as **Encapsulation** and **Abstraction**, along with modern technologies like **LINQ**, **Entity Framework Core (EF Core)**, and **SQL Server**. This project is developed on **.NET 9**.
+
+---
+
+## Features ✨
+
+- **Account Management**: Create new bank accounts with user details.  
+- **Transactions**: Deposit and withdraw money securely.  
+- **Money Transfer**: Safely transfer money between accounts with balance verification.  
+- **Transaction History**: Track all operations with proper logging in the database.  
+- **Admin Panel**: Perform **CRUD operations** on users and view all accounts.  
+
+---
+
+## Technologies Used 🛠️
+
+- **C# .NET 9** – Core programming language and framework.  
+- **Entity Framework Core (EF Core)** – For database interactions using LINQ.  
+- **LINQ** – Query data efficiently.  
+- **SQL Server** – Database management system.  
+- **Database Design** – Structured tables for users, accounts, and transactions.  
+
+---
+
+## Project Structure 📂
+
+- **Models** – Classes representing entities (e.g., Account, User, Transaction).  
+- **Data Access Layer (DAL)** – Handles database operations using EF Core.  
+- **Business Logic Layer (BLL)** – Contains core banking operations.  
+- **Admin Panel** – Functions for administrators.  
+
+---
+
+## How to Run ▶️
+
+1. Clone the repository:  
+   ```bash
+   git clone <your-repo-link>
