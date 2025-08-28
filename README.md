@@ -10,7 +10,6 @@ A **Banking System** built with **C#** using **Object-Oriented Programming (OOP)
 - **Transactions**: Deposit and withdraw money securely.  
 - **Money Transfer**: Safely transfer money between accounts with balance verification.  
 - **Transaction History**: Track all operations with proper logging in the database.  
-- **Admin Panel**: Perform **CRUD operations** on users and view all accounts.  
 
 ---
 
@@ -29,12 +28,5 @@ A **Banking System** built with **C#** using **Object-Oriented Programming (OOP)
 - **Models** – Classes representing entities (e.g., Account, User, Transaction).  
 - **Data Access Layer (DAL)** – Handles database operations using EF Core.  
 - **Business Logic Layer (BLL)** – Contains core banking operations.  
-- **Admin Panel** – Functions for administrators.  
 
 ---
-
-## How to Run ▶️
-
-1. Clone the repository:  
-   ```bash
-   git clone <your-repo-link>
