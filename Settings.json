@@ -1,0 +1,3 @@
+﻿{
+  "connection_string" : "Server=DESKTOP-PMA38R3;Database=Bank_DB;Integrated Security=True;TrustServerCertificate=True;" 
+}
